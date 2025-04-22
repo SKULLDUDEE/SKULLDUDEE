@@ -1,31 +1,114 @@
-<h1 align="center">Hi 👋, I'm RAJAT</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/FfVCTDaDI3JM0O7h5QtuGzc6f0YbMytfcTB80hdlRts/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS8x/OWRiNTFhZjVmOTBm/MWIxNTJiYzBiOTA3/OGY1ZmU5NzA1Mzk1/NWJlNTA3NGYwM2Yx/NzAxOWM3MDM0NWJk/Y2RiLzY4NzQ3NDcw/NzMzYTJmMmY2ZDY5/NzI2ZjJlNmQ2NTY0/Njk3NTZkMmU2MzZm/NmQyZjZkNjE3ODJm/MzEzMzM2MzAyZjMw/MmEzNzUxMzM3OTc2/NTM0OTc2NWY3NDMw/Njk2ZjRhMmQ1YTJl/Njc2OTY2">
+<h1 align="center">Hi 👋, I'm <span style="color:#0db3e3;">RAJAT</span></h1>
+<h3 align="center">💻 Full Stack Developer | ⚙️ MERN Specialist | 🤖 AI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skulldudee&label=Profile%20views&color=0e75b6&style=flat" alt="skulldudee" /> </p>
-
-- 🌱 I’m currently learning **React Js**
-
-- 💬 Ask me about **MERN,SQL,PYTHON**
-
-- 📫 How to reach me **rajatnek@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/14QFiAva7EMyOGXUQFnJeBU7D_vgSkljY/view?usp=drivesdk](https://drive.google.com/file/d/14QFiAva7EMyOGXUQFnJeBU7D_vgSkljY/view?usp=drivesdk)
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rajat." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat." height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajat1416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajat1416" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rajat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajat" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=skulldudee&label=Profile%20views&color=0e75b6&style=flat" alt="skulldudee" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://imgs.search.brave.com/FfVCTDaDI3JM0O7h5QtuGzc6f0YbMytfcTB80hdlRts/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS8x/OWRiNTFhZjVmOTBm/MWIxNTJiYzBiOTA3/OGY1ZmU5NzA1Mzk1/NWJlNTA3NGYwM2Yx/NzAxOWM3MDM0NWJk/Y2RiLzY4NzQ3NDcw/NzMzYTJmMmY2ZDY5/NzI2ZjJlNmQ2NTY0/Njk3NTZkMmU2MzZm/NmQyZjZkNjE3ODJm/MzEzMzM2MzAyZjMw/MmEzNzUxMzM3OTc2/NTM0OTc2NWY3NDMw/Njk2ZjRhMmQ1YTJl/Njc2OTY2" width="400" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skulldudee&show_icons=true&locale=en&layout=compact" alt="skulldudee" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skulldudee&show_icons=true&locale=en" alt="skulldudee" /></p>
+## 🎓 Education
+**B.Tech in Computer Science Engineering**  
+📍 Maharaja Agrasen Institute of Technology | 🗓️ Oct 2021 - May 2025  
+📊 GPA: **7.9 / 10**  
+📘 *Relevant Coursework:* Data Structures, Algorithms, Web Development
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skulldudee&" alt="skulldudee" /></p>
+---
+
+## 💼 Experience
+
+### 💡 Full Stack Intern — *AI.RAWAT GLOBAL Pvt Ltd*  
+📅 *March 2025 - Present*  
+🛠️ `MERN Stack` `SQL` `REST APIs`  
+- Optimized high-traffic platforms for performance and security  
+- Built scalable features in collaboration with the backend and UI teams
+
+### 🚀 Full Stack Intern — *NextDev Labs*  
+📅 *Jan 2025 - March 2025*  
+🛠️ `Node.js` `React.js` `MongoDB`  
+- Developed complete product lifecycle solutions  
+- Integrated SEO enhancements to boost user visibility
+
+### 🎯 Front-End Developer — *IBM*  
+📅 *June 2024 - Aug 2024*  
+🛠️ `React.js` `HTML5` `CSS3`  
+- Designed and developed a GitHub Profile Finder  
+- Participated in UI/UX discussions and component creation
+
+---
+
+## 🚀 Featured Projects
+
+### ⚖️ **Simpli-Law AI Chatbot**  
+🔗 [View Project](project-link)  
+🛠️ `MERN` `Google Auth` `REST APIs`  
+- Role-based login & dashboard  
+- Real-time legal news integration
+
+### 🗓️ **Meeting Scheduler App**  
+🔗 [View Project](project-link)  
+🛠️ `TypeScript` `JWT` `MongoDB`  
+- Smart conflict detection algorithm  
+- Calendar-based availability system
+
+### 🛒 **E-Commerce Platform**  
+🔗 [View Project](project-link)  
+🛠️ `React.js` `Node.js` `Payment Gateway`  
+- Admin panel for inventory & orders  
+- Seamless checkout with secure payments
+
+---
+
+## 🧠 Skills & Tools
+
+### 👨‍💻 Languages  
+`C++` `Python` `JavaScript` `HTML5`
+
+### 🎨 Front-End  
+`React.js` `TailwindCSS` `Framer Motion` `GSAP`
+
+### 🛠️ Back-End  
+`Node.js` `Express.js` `REST APIs`
+
+### 🗃️ Databases  
+`MongoDB` `MySQL`
+
+### 🧰 Tools  
+`Git` `GitHub` `Postman` `npm` `VS Code`
+
+---
+
+## 📜 Certifications
+
+- 🏅 **IBM SkillsBuild** – Front-End Development *(Jun 2024)*  
+- 🏅 **Wipro TalentNext** – Java Web Development *(Aug 2024)*
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/rajat." target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skulldudee&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skulldudee&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skulldudee&layout=compact&theme=radical" alt="Top Languages" />
+</p>
