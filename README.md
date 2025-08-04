@@ -14,7 +14,7 @@
 ## 🎓 Education
 **B.Tech in Computer Science Engineering**  
 📍 Maharaja Agrasen Institute of Technology | 🗓️ Oct 2021 - May 2025  
-📊 GPA: **7.9 / 10**  
+📊 GPA: **8.1 / 10**  
 📘 *Relevant Coursework:* Data Structures, Algorithms, Web Development
 
 ---
